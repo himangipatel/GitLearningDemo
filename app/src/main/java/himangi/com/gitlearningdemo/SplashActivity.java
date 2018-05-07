@@ -14,7 +14,8 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
-                Log.i("Git Checkout", "SplashActivity");
+
+                Log.i("Git Checkout", "SplashActivity dev-himangi");
 
             }
         }, 3000);
