@@ -17,5 +17,12 @@ public class Main1Activity extends AppCompatActivity {
         Log.i("Git Checkout", "Main1Activity");
 
         Log.i("Git Checkout", "Main1Activity");
+
+
+        /// second pull req
+        Log.i("Git Checkout", "Main1Activity");
+
+        Log.i("Git Checkout", "Main1Activity");
+
     }
 }
