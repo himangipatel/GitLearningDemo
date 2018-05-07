@@ -19,6 +19,9 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".ForgotPasswordActivity" />
         <activity android:name=".OTPActivity"></activity>
+        <activity android:name=".OTPVerificationActivity"></activity>
+        <activity android:name=".ChangePasswordActivity" />
+
     </application>
 
 </manifest>

@@ -13,11 +13,16 @@ public class ChangePasswordActivity extends Activity{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_change_password);
-
+        initHimangi();
         initDarshna();
     }
 
     private void initDarshna() {
+
+        initHimangi();
+    }
+
+    private void initHimangi() {
 
     }
 }
