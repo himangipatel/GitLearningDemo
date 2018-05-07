@@ -18,5 +18,8 @@ public class SplashActivity extends AppCompatActivity {
 
             }
         }, 3000);
+
+        Log.i("Git Checkout", "dev himangi");
+
     }
 }
