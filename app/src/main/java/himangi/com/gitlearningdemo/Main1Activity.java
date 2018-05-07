@@ -16,7 +16,8 @@ public class Main1Activity extends AppCompatActivity {
 
         Log.i("Git Checkout", "Main1Activity");
 
-        Log.i("Git Checkout", "Main1Activity Patch Request1");
+        Log.i("Git Checkout", "Main1Activity Patch req2");
+
 
 
         /// second pull req
