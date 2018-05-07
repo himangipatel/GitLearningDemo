@@ -14,12 +14,10 @@ public class SplashActivity extends AppCompatActivity {
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
+
                 Log.i("Git Checkout", "SplashActivity dev-himangi");
 
             }
         }, 3000);
-
-        Log.i("Git Checkout", "dev himangi");
-
     }
 }
